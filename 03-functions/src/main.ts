@@ -94,7 +94,8 @@ const numberOrString = (value: number | string): string => {
   return createError('this should never happen!');
 };
 
-// exercicises
+//********************exercicises**************************
+
 function plusMinus(arr: number[]): void {
   let countPlusNums: number = 0;
   let countMinusNums: number = 0;
