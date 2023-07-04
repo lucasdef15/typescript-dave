@@ -117,3 +117,4 @@ console.log(myBands.data);
 myBands.data = [...myBands.data, 'ZZ Top'];
 console.log(myBands.data);
 // myBands.data = 'Van Halen';
+
